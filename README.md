@@ -37,10 +37,12 @@ jupyter lab -ContentsManager.allow_hidden=True
 then JupyterLab will automatically open in your browswer. Use the left side menu bar to search for the `financial_planning_tools.ipynb` file. Open this file. Inside the same folder, create a new text file, add your personal api key(s), then same the file as `.env`. The file will disappear, but you can click VIEW > SHOW HIDDEN FILES and you will be able to see it. This file hides your api key(s) safely. Then you can use the formaulas in the `.ipynb` file to analyze your portfolio(s) and whichever dates you need to check.
 
 See an example of a Monte Carlo Simulation Plot here:
-![](plot.sumlation.png)
 
-See an example of a Monte Carlo Distribution Plot here"
-![](plot.distribution.png)
+![](./plot.simulation.png/)
+
+See an example of a Monte Carlo Distribution Plot here:
+
+![](./plot.distribution.png/)
 
 ---
 
