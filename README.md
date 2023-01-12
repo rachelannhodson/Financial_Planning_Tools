@@ -7,15 +7,6 @@ This is a JupyterLab application in which a trader or a financial planning compa
 ## Technologies
 
 # Import the required libraries and dependencies
-import os
-import requests
-import json
-import pandas as pd
-from dotenv import load_dotenv
-import alpaca_trade_api as tradeapi
-from MCForecastTools import MCSimulation
-
-%matplotlib inline
 
 This application was written in Python 3.9.12. This application is dependent on the following libraries:
 * [pandas](https://pandas.pydata.org/)
